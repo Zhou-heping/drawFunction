@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">drawFunction</string>
+    <string name="help">帮助</string>
+    <string name="helpItem1">1. 支持输入的函数包括：一次函数，2次函数，n次函数，sin,cos,tan,log,以及函数组合等</string>
+    <string name="helpItem2">2. 函数绘制功能输入规则如下：</string>
+    <string name="helpItem3">   2.2 n次函数输入示例：3x+4 或 2*x+5，x^2+2x+1 ,不支持的输入如：x3 + 1 等不符合常规的输入</string>
+    <string name="helpItem4">   2.3 其他函数输入示例：sin x,sin(x),log x, sinx等</string>
+    <string name="helpItem5">   2.4 支持函数的嵌套使用如：sincos(x),sin(sin(x)),tansin(x)等，sin(x)/cos(x) </string>
+    <string name="helpItem6">   2.1 函数的自变量只支持为x </string>
+</resources>
